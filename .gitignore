@@ -1,0 +1,6 @@
+.vscode
+local_settings.py
+MyWebsiteENV
+db.sqlite3
+*.pyc
+__pycache__
